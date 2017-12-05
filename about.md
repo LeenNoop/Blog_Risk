@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Rules
-permalink: /about/
 ---
 [comment]: <> (the top bit is yaml front matter, it tells jekyll to process tis page and compile into something else)
 
