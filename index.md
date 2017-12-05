@@ -2,7 +2,7 @@
 layout: home
 Title: Home
 ---
-# Welcome to Team Panda Games website
+# Are you Ready!!!
 ![alt text](Risk-Image-For-Website.jpg)
 
 # About the game
