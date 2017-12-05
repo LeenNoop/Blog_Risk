@@ -1,11 +1,19 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Game website
+author: Team_Panda
+email: team_panda@ason.ac.uk and others
+description: A wonderful site to host the risk game( we will write some more here
 
+twitter_username: TeamPanda
+github_username:  Panda
+
+  minima:
+  date_format: "%b %-d, %Y"
+  
 # Build settings
 markdown: kramdown
 theme: minima
+plugins:
+  - jemoji
+  
+
