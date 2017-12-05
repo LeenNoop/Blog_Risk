@@ -7,7 +7,7 @@ description: A wonderful site to host the risk game( we will write some more her
 twitter_username: TeamPanda
 github_username:  Panda
 
-  minima:
+minima:
   date_format: "%b %-d, %Y"
   
 # Build settings
