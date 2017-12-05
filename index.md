@@ -2,7 +2,7 @@
 layout: home
 Title: Home
 ---
-# Are you Ready!!!
+# Are you ready to take the risk?!?! :smiling_imp::smiling_imp:
 ![alt text](Risk-Image-For-Website.jpg)
 
 # About the game
