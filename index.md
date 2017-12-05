@@ -1,6 +1,6 @@
 ---
 layout: home
-Title: Welcome
+Title: Home
 ---
 # Welcome to Team Panda Games website
 ![alt text](Risk-Image-For-Website.jpg)
